@@ -1,0 +1,13 @@
+[
+  {
+    "username": "roman4ique",
+    "chatId": 392832420,
+    "subscribes": [
+      { "name": "Trio Thursday", "event": "Cargo Ship" },
+      { "name": "Trio Thursday", "event": "Heli" }
+    ]
+  },
+  { "username": "zhekich_an", "chatId": 673795133, "subscribes": [] },
+  { "username": "fasero1", "chatId": 542684632, "subscribes": [{ "name": "Trio Thursday", "event": "Cargo Ship" }] },
+  { "username": "Magmat1k", "chatId": 590701999, "subscribes": [{ "name": "Trio Thursday", "event": "Cargo Ship" }] }
+]
